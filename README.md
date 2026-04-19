@@ -196,16 +196,16 @@ Username:     brolf
 ## 📸 Screenshots
 
 ### Live Traffic Capture
-![Live Capture](screenshots/live-capture.png)
+![Dashboard](screenshots/src_dest.png)
 
 ### C2 Traffic Filter
-![C2 Traffic](screenshots/c2-traffic-filter.png)
+![Dashboard](screenshots/name.png)
 
 ### DHCP Hostname Extraction
-![DHCP](screenshots/dhcp-hostname.png)
+![DHCP](screenshots/hostname.png)
 
 ### Kerberos Username Extraction
-![Kerberos](screenshots/kerberos-username.png)
+![Kerberos](screenshots/Full name.png)
 
 ---
 
