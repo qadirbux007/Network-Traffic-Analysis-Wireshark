@@ -205,7 +205,7 @@ Username:     brolf
 ![DHCP](screenshots/hostname.png)
 
 ### Kerberos Username Extraction
-![Kerberos](screenshots/Full name.png)
+![Kerberos](screenshots/Full_name.png)
 
 ---
 
